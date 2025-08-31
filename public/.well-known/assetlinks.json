@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nuc.pakpost",
+      "sha256_cert_fingerprints": [
+        "BD:84:AD:C3:80:ED:BA:9B:7D:02:08:EF:6F:F7:58:B7:15:B7:7B:52:2C:16:C7:8E:04:5E:BF:68:03:52:16:13"
+      ]
+    }
+  }
+]
